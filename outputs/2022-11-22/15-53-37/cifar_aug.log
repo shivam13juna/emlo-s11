@@ -1,0 +1,3 @@
+[2022-11-22 15:54:23,861][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmp_0wx57t9
+[2022-11-22 15:54:23,861][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmp_0wx57t9/_remote_module_non_sriptable.py
+[2022-11-22 15:54:23,955][timm.models.helpers][INFO] - Loading pretrained weights from url (https://download.pytorch.org/models/resnet18-5c106cde.pth)
