@@ -12,5 +12,5 @@ lr: 0.1
 resume: false
 seed: 0
 batch_size: 10000
-epochs: 5
+epochs: 10
 
